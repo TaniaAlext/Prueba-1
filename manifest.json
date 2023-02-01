@@ -3,90 +3,86 @@
     "short_name" : "LOL",
     "icons" :[
         {
+            
             "src" : "media/akali.png",
-            "sizes": "256x256",
+            "sizes": "1240x1360",
             "type" : "image/png"
         },
         {
             "src" : "media/camera_6.jpg",
-            "sizes": "256x256",
-            "type" : "image/jpg"
-        },
-        {
-            "src" : "media/carrusel_1.jpg",
-            "sizes": "256x256",
+            "sizes": "1215x717",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_2.jpg",
-            "sizes": "256x256",
+            "sizes": "1215x717",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_3.jpg",
-            "sizes": "256x256",
+            "sizes": "1215x717",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_4.jpg",
-            "sizes": "256x256",
+            "sizes": "2560x1501",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_5.jpg",
-            "sizes": "256x256",
+            "sizes": "1215x717",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_7.jpg",
-            "sizes": "256x256",
+            "sizes": "1830x1080",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_8.jpg",
-            "sizes": "256x256",
+            "sizes": "1920x1080",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_11.jpg",
-            "sizes": "256x256",
+            "sizes": "1024x576",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_12.jpg",
-            "sizes": "256x256",
+            "sizes": "1215x717",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_13.jpg",
-            "sizes": "256x256",
+            "sizes": "1215x717",
             "type" : "image/jpg"
         },
         {
             "src" : "media/carrusel_14.jpg",
-            "sizes": "256x256",
+            "sizes": "1500x844",
             "type" : "image/jpg"
         },
         {
             "src" : "media/LoLlogo.png",
-            "sizes": "256x256",
+            "sizes": "2048x2048",
             "type" : "image/png"
         },  
         {
             "src" : "media/videolol.mp4",
-            "sizes": "256x256",
+            "sizes": "263x116",
             "type" : "video/mp4"
         },
         {
             "src" : "media/jinx1.png",
-            "sizes": "256x256",
+            "sizes": "700x769",
             "type" : "image/jpg"
         },           
         {
             "src" : "media/grieta_del_fornicador.jpg",
-            "sizes": "256x256",
+            "sizes": "1920x1080",
             "type" : "image/jpg"
-        }          
+        }        
     ],
     "description" : "Un jueguito pa la chaviza",
     "start_url" : "index.html",
